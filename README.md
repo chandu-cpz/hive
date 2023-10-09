@@ -8,6 +8,3 @@ Make the installer scipt executable
 Run the Installer script
 
 	./hive-installer.sh
-
-
-**If you find my repository useful or interesting, I would greatly appreciate your support! Please consider giving it a star**
